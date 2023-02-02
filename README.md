@@ -1,4 +1,4 @@
-![Fish image](./images/FishYY.jpg)
+![Fish image](./images/FishYY.png)
 
 ### Hi there 👋
 
